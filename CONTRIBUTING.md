@@ -14,11 +14,15 @@ On our Issues page, you'll find a number of ways to contribute. Many are "Integr
 
 Have an idea you'd like to see built? Want to see Scroll integrated in your favorite developer tooling? To the best of your ability, make an issue describing the project, linking to the appropriate repo and outlining what changes would need to be made. Someone from our team can then add additional tasks, context or even spec out or implement the code needed.
 
+**Note**: You will only be able to create an issue if you have contributed to this repository.
+
 #### How to create an issue?
+
 To create an issue, you have several options:
+
 - Use predefined issue templates found [here](https://github.com/scroll-tech/contribute-to-scroll/issues/new/choose). With these you can:
-   - **"Add Scroll to some tool or library"** - _Integrate Scroll into your favourite project_
-   - **"Propose new Skunkworks project"** - _Have some innovative idea you want built on top of Scroll? Propose it here!_
+  - **"Add Scroll to some tool or library"** - _Integrate Scroll into your favourite project_
+  - **"Propose new Skunkworks project"** - _Have some innovative idea you want built on top of Scroll? Propose it here!_
 - [Open a blank issue](https://github.com/scroll-tech/contribute-to-scroll/issues/new) if none of the previous options fit your proposal
 
 And that's it! You've started your contribution to Scroll journey 📜 🚀
